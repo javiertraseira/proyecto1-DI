@@ -17,5 +17,3 @@ Se valorarán los siguientes apartados (adjunto modelo de rúbrica):
 	- Uso de nuevos elementos en la BD o el Acceso a Datos
 
 Se tendrá en cuenta una documentación mínima del código y podrán restarse hasta 2 puntos por la aparición de mensajes graves de error no contemplados (dumps).
-
-El proyecto deberá funcionar con un usuario genérico llamado *root* y de contraseña 4444, fuera de la Base de Datos.
