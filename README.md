@@ -3,8 +3,8 @@
 Partiendo del modelo y del código de la aplicación práctica creada en Java Swing, mejorarla para agregarle nuevas funcionalidades, uso de librerías, mejora del diseño, reorganización del código, mejora del acceso a datos o del MVC utilizado.
 
 Se valorarán los siguientes apartados (adjunto modelo de rúbrica):
-- ** Funcionamiento básico desarrollado en clase (35%) **
-- ** Proyecto de mejora (65%) **
+- **Funcionamiento básico desarrollado en clase (35%)**
+- **Proyecto de mejora (65%)**
 	- Mejora de las funcionalidades
 		- Utilidad y mejora de las funcionalidades
 		- Dificultad del código/modelo utilizado
