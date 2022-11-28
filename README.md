@@ -8,14 +8,12 @@ Se valorarán los siguientes apartados (adjunto modelo de rúbrica):
 	- Mejora de las funcionalidades
 		- Utilidad y mejora de las funcionalidades
 		- Dificultad del código/modelo utilizado
-		- Uso de librerías externas
-			- Uso de dependencias
+		- Uso de librerías externas o de dependencias
 	- Uso adecuado del MVC
 		- Distribución de las clases
-		- Traspaso de datos
+		- Traspaso de los datos
 	- Diseño y distribución de los elementos de la Interfaz
-		- Uso de mensajes de error y/o validación
-		- Apoyo en elementos CSS
+		- Uso de mensajes de error y/o validación adecuados
 	- Uso de nuevos elementos en la BD o el Acceso a Datos
 
 Se tendrá en cuenta una documentación mínima del código y podrán restarse hasta 2 puntos por la aparición de mensajes graves de error no contemplados (dumps).
