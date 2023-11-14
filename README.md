@@ -2,7 +2,7 @@
 
 Partiendo del modelo y del código de la aplicación práctica creada en Java Swing, mejorarla para agregarle nuevas funcionalidades, uso de librerías, mejora de la usabilidad,  mejora del MVC utilizado y de un instalador y ejecutables adjuntos.
 
-Se valorarán los siguientes apartados:
+Se valorarán los siguientes apartados (Rúbrica disponible en Teams)
 - Criterios y requerimientos básicos del proyecto (**35%**)
    	- Cumple con todos los requerimientos pedidos hasta la *práctica 3.1* haciendo un uso adecuado del **MVC** y del traspaso de datos.
 	- Hace una mejora básica de usabilidad y del diseño.
