@@ -4,11 +4,13 @@ Partiendo del modelo y del código de la aplicación práctica creada en Java Sw
 
 Se valorarán los siguientes apartados:
 - Criterios y requerimientos básicos del proyecto (**35%**)
-   	- Cumple con todos los requerimientos pedidos hasta la *práctica 3.2* haciendo un uso adecuado del **MVC** y del traspaso de datos.
+   	- Cumple con todos los requerimientos pedidos hasta la *práctica 3.1* haciendo un uso adecuado del **MVC** y del traspaso de datos.
+	- Hace una mejora básica de usabilidad y del diseño.
+	- Genera un fichero jar y un ejecutable funcional del proyecto.
 - Otros criterios (**65%**)
-	- Mejora básica de la **usabilidad**:
+	- Mejora de la **usabilidad**:
 		- Guía de estilo completa adjunta.
-		- Diseño de interfaz usable con criterios de usabilidad claros.
+		- Diseño de la interfaz usable con criterios de usabilidad claros.
 		- Uso de validaciones y mensajes de error comprensibles.
 	- Mejora de las **funcionalidades**:
 		- Utilidad y mejora de las funcionalidades.
@@ -22,4 +24,4 @@ Se valorarán los siguientes apartados:
 		- Existencia de documentación en un fichero README.
 
 
-Se tendrá en cuenta una documentación mínima del código y podrán restarse hasta 2 puntos por la aparición de mensajes graves de error no contemplados o recuperables (dumps).
+Se tendrá en cuenta una documentación mínima del código y podrán restarse hasta 2 puntos por la aparición de mensajes graves de error no contemplados o no recuperables (dumps).
