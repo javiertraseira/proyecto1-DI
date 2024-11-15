@@ -1,12 +1,15 @@
-# Proyecto Trimestral de Desarrollo de Interfaces (DI) 23/24
+# Proyecto Trimestral de Desarrollo de Interfaces (DI) 24/25
 
-Partiendo del modelo y del código de la aplicación práctica creada en Java Swing, mejorarla para agregarle nuevas funcionalidades, uso de librerías, mejora de la usabilidad,  mejora del MVC utilizado y de un instalador y ejecutables adjuntos.
+Partiendo del modelo y del código de la aplicación práctica creada en Java Swing en la práctica 3.1, mejorarla para agregarle nuevas funcionalidades, uso de librerías, mejora de la usabilidad,  mejora del MVC utilizado y de un instalador y ejecutables adjuntos.
 
-Se valorarán los siguientes apartados (Rúbrica disponible en Teams)
+## Posibles mejoras
+
+## Valoración de apartados
+
 - Criterios y requerimientos básicos del proyecto (**35%**)
    	- Cumple con todos los requerimientos pedidos hasta la *práctica 3.1* haciendo un uso adecuado del **MVC** y del traspaso de datos.
 	- Hace una mejora básica de usabilidad y del diseño.
-	- Genera un fichero jar y un ejecutable funcional del proyecto.
+	- Genera un fichero `jar` y un `ejecutable` funcional del proyecto.
 - Otros criterios (**65%**)
 	- Mejora de la **usabilidad**:
 		- Guía de estilo completa adjunta.
